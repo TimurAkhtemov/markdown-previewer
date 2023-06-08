@@ -19,6 +19,17 @@ This is a Markdown Previewer built with React. It allows users to enter markdown
 - Styled-components
 - React Markdown
 
+## Installation and Setup
+
+1. Clone the repository: https://github.com/TimurAkhtemov/markdown-previewer.git 
+2. Navigate to the project directory and install the dependencies:
+   cd markdown-previewer
+   npm install
+3. Start the development server:
+   npm start
+4. Open your browser and go to `http://localhost:3000`, you should see the app running.
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
